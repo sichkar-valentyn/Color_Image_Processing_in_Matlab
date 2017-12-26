@@ -1,3 +1,14 @@
+% File: Color_Image_Processing_in_Matlab.m
+% Description: Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Color_Image_Processing_in_Matlab (date of access: XX.XX.XXXX)
+
 close all;
 
 %Reading an original images
