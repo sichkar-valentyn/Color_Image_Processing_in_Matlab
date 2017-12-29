@@ -1,4 +1,4 @@
-# Color_Image_Processing_in_Matlab
+# Color Image Processing in Matlab
 Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab
 
 ### Reference to:
