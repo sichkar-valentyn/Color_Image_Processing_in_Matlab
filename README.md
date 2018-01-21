@@ -5,7 +5,13 @@ Pseudo-color image processing, Luminance correction, Segmentation of image in Ma
 [1] Valentyn N Sichkar. Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Color_Image_Processing_in_Matlab (date of access: XX.XX.XXXX)
 
 ## Description
-Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab
+Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab.
+<p>The main goals are:</p>
+<ul>
+<li>Pseudo-color image processing</li>
+<li>Luminance correction</li>
+<li>Segmentation of image</li>
+</ul>
 
 ## Converting original image1 to HSV
 ![Result](images/Converting_original_image1_to_HSV.png)
