@@ -1,6 +1,9 @@
 # Color Image Processing in Matlab
 Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Pseudo-color image processing, Luminance correction, Segmentation of image in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Color_Image_Processing_in_Matlab (date of access: XX.XX.XXXX)
 
